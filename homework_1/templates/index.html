@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block title %}Air Quality Map of China{% endblock %}
+
+{% block page_content %}
+<strong><p>latest update:&nbsp;<font color='grey'>{{time}}</font>,&nbsp;<br><font color="red">NOTICE: Since the public test AppKey is limited to 15 calls per hour, data update usually fails.&nbsp;(higher success rate in the last few minutes of an hour)</font></p></strong>
+{{wtf.quick_form(form)}}
+<!--PLOT-->
+<div class="Content">
+   <table widtd="1140" border="0" align="center" cellpadding="0" cellspacing="0">
+       <tr>
+           <td><img src="{{fig}}" loading="lazy"/></td>
+       </tr> 
+    </table>
+</div>
+{% endblock %}

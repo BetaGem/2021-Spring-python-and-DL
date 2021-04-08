@@ -5,7 +5,7 @@ from wtforms import SelectField, SubmitField
 
 from pandas import read_table
 from datetime import datetime
-# import module from data.py
+
 import data   
 
 app = Flask(__name__) 
@@ -20,7 +20,7 @@ update_time = 'Null'
 url = 'http://www.pm25.in/'
 
 class Form(FlaskForm):
-    # select pollutant type to plot
+    # Select pollutant type to plot
     pollute = SelectField('',
                           choices=[('0','AQI'),
                                    ('1','PM2.5'),
@@ -30,6 +30,7 @@ class Form(FlaskForm):
                                    ('4','NO2'),
                                    ('5','O3')],
                           render_kw = { 'style':'width:155px;' })
+    # Bottons
     submit = SubmitField('Plot')
     update = SubmitField('Update data')
     
@@ -45,9 +46,9 @@ def index():
         if form.update.data:
             update_time = airmap.update_local_file()  
 
-    # list of city names and coordinates from China_cities.csv
+    # List of city names and coordinates from China_city.csv
     city_list, latitude, longitude = get_city_map()
-    # list of air quality values from data.json
+    # List of air quality values from data.json
     values, is_out_of_date, update_time = get_data(airmap,city_list)
     
     fig = airmap.plot_map(latitude,longitude,values,is_out_of_date,pollutant)
@@ -58,7 +59,7 @@ def index():
 
 def get_city_map():
     '''read city list from local file'''   
-    # city list
+    
     cities = read_table("China_city.csv",',')
     city_list = cities['city'].values.tolist()
     longitude = cities['lo'].values.tolist()
@@ -68,6 +69,7 @@ def get_city_map():
 
 def get_data(airmap,city_list):
     '''get data from downloaded file'''
+    
     values = []
     is_out_of_date = []
     for cty in city_list:

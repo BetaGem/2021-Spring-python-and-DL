@@ -33,7 +33,7 @@ class PlotFromURL:
             hjson = json.loads(r.text)
             try:
                 temp = hjson[10]
-                flag = 0    # success!
+                flag = 0        # success!
                 a = json.dumps(hjson)
                 # avoid json file being overwritten when update fails
                 with open("data.json",'w') as f:
@@ -55,9 +55,7 @@ class PlotFromURL:
             for i in range(len(js)):
                 if js[i]['area'].startswith(city):
                     return js[i][choices[pollutant]], js[i]['time_point']
-                
-            # print("failed:",city)
-            return None,None
+        return None,None
             
     def plot_map(self,latitude,longitude,value,size,pollutant):
         '''plot air quality map to html'''

@@ -8,7 +8,7 @@ from PIL import Image
 
 #Set source information
 sourc = 'eagle'    #'eagle' 'sdss'
-if sourc == 'eagle':
+if sourc == 'sdss':
     path = './eagle-final/eagle-nodust2-zrcn/'
     division = ['merger_0.1', 'nomerger'] #'premerger', 'postmerger', 
     extn = '.jpg'
@@ -19,7 +19,7 @@ elif sourc == 'sdss':
     division = ['mergers', 'non-mergers'] 
     extn = '.jpeg'
     outfile = './custom-network-sdss/'+division[0]
-    edge_cut = 96
+    edge_cut = 0
 
 no_dim = len(division)
 save = True

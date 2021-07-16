@@ -1,0 +1,1370 @@
+Epoch 1, Overall loss = 0.569 and accuracy of 0.708
+Val 	 Overall loss = 0.547 and accuracy of 0.742 (445 of 600)
+
+Epoch 2, Overall loss = 0.477 and accuracy of 0.789
+Val 	 Overall loss = 0.484 and accuracy of 0.802 (481 of 600)
+
+Epoch 3, Overall loss = 0.418 and accuracy of 0.806
+Val 	 Overall loss = 0.43 and accuracy of 0.82 (492 of 600)
+Saved
+
+Epoch 4, Overall loss = 0.349 and accuracy of 0.847
+Val 	 Overall loss = 0.372 and accuracy of 0.865 (519 of 600)
+Saved
+
+Epoch 5, Overall loss = 0.316 and accuracy of 0.863
+Val 	 Overall loss = 0.349 and accuracy of 0.867 (520 of 600)
+Saved
+
+Epoch 6, Overall loss = 0.308 and accuracy of 0.861
+Val 	 Overall loss = 0.368 and accuracy of 0.867 (520 of 600)
+
+Epoch 7, Overall loss = 0.287 and accuracy of 0.884
+Val 	 Overall loss = 0.348 and accuracy of 0.87 (522 of 600)
+Saved
+
+Epoch 8, Overall loss = 0.26 and accuracy of 0.897
+Val 	 Overall loss = 0.29 and accuracy of 0.903 (542 of 600)
+Val 	 Are mergers  classed  mergers : 0.853 ( 256 of 300 )
+Val 	 Classed mergers  are  mergers : 0.948 ( 256 of 270 )
+Val 	 Are non-mergers  classed  non-mergers : 0.953 ( 286 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.867 ( 286 of 330 )
+Saved
+
+Epoch 9, Overall loss = 0.257 and accuracy of 0.895
+Val 	 Overall loss = 0.3 and accuracy of 0.898 (539 of 600)
+
+Epoch 10, Overall loss = 0.242 and accuracy of 0.901
+Val 	 Overall loss = 0.274 and accuracy of 0.9 (540 of 600)
+
+Epoch 11, Overall loss = 0.217 and accuracy of 0.91
+Val 	 Overall loss = 0.271 and accuracy of 0.908 (545 of 600)
+Val 	 Are mergers  classed  mergers : 0.857 ( 257 of 300 )
+Val 	 Classed mergers  are  mergers : 0.955 ( 257 of 269 )
+Val 	 Are non-mergers  classed  non-mergers : 0.96 ( 288 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.87 ( 288 of 331 )
+Saved
+
+Epoch 12, Overall loss = 0.223 and accuracy of 0.908
+Val 	 Overall loss = 0.283 and accuracy of 0.907 (544 of 600)
+Val 	 Are mergers  classed  mergers : 0.85 ( 255 of 300 )
+Val 	 Classed mergers  are  mergers : 0.959 ( 255 of 266 )
+Val 	 Are non-mergers  classed  non-mergers : 0.963 ( 289 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.865 ( 289 of 334 )
+
+Epoch 13, Overall loss = 0.197 and accuracy of 0.927
+Val 	 Overall loss = 0.249 and accuracy of 0.913 (548 of 600)
+Val 	 Are mergers  classed  mergers : 0.87 ( 261 of 300 )
+Val 	 Classed mergers  are  mergers : 0.953 ( 261 of 274 )
+Val 	 Are non-mergers  classed  non-mergers : 0.957 ( 287 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.88 ( 287 of 326 )
+Saved
+
+Epoch 14, Overall loss = 0.197 and accuracy of 0.918
+Val 	 Overall loss = 0.26 and accuracy of 0.892 (535 of 600)
+
+Epoch 15, Overall loss = 0.179 and accuracy of 0.929
+Val 	 Overall loss = 0.232 and accuracy of 0.92 (552 of 600)
+Val 	 Are mergers  classed  mergers : 0.883 ( 265 of 300 )
+Val 	 Classed mergers  are  mergers : 0.953 ( 265 of 278 )
+Val 	 Are non-mergers  classed  non-mergers : 0.957 ( 287 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.891 ( 287 of 322 )
+Saved
+
+Epoch 16, Overall loss = 0.175 and accuracy of 0.937
+Val 	 Overall loss = 0.233 and accuracy of 0.92 (552 of 600)
+Val 	 Are mergers  classed  mergers : 0.887 ( 266 of 300 )
+Val 	 Classed mergers  are  mergers : 0.95 ( 266 of 280 )
+Val 	 Are non-mergers  classed  non-mergers : 0.953 ( 286 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.894 ( 286 of 320 )
+
+Epoch 17, Overall loss = 0.167 and accuracy of 0.932
+Val 	 Overall loss = 0.24 and accuracy of 0.915 (549 of 600)
+Val 	 Are mergers  classed  mergers : 0.88 ( 264 of 300 )
+Val 	 Classed mergers  are  mergers : 0.946 ( 264 of 279 )
+Val 	 Are non-mergers  classed  non-mergers : 0.95 ( 285 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.888 ( 285 of 321 )
+
+Epoch 18, Overall loss = 0.178 and accuracy of 0.934
+Val 	 Overall loss = 0.249 and accuracy of 0.915 (549 of 600)
+Val 	 Are mergers  classed  mergers : 0.857 ( 257 of 300 )
+Val 	 Classed mergers  are  mergers : 0.97 ( 257 of 265 )
+Val 	 Are non-mergers  classed  non-mergers : 0.973 ( 292 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.872 ( 292 of 335 )
+
+Epoch 19, Overall loss = 0.172 and accuracy of 0.932
+Val 	 Overall loss = 0.227 and accuracy of 0.913 (548 of 600)
+Val 	 Are mergers  classed  mergers : 0.86 ( 258 of 300 )
+Val 	 Classed mergers  are  mergers : 0.963 ( 258 of 268 )
+Val 	 Are non-mergers  classed  non-mergers : 0.967 ( 290 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.873 ( 290 of 332 )
+
+Epoch 20, Overall loss = 0.176 and accuracy of 0.93
+Val 	 Overall loss = 0.242 and accuracy of 0.923 (554 of 600)
+Val 	 Are mergers  classed  mergers : 0.93 ( 279 of 300 )
+Val 	 Classed mergers  are  mergers : 0.918 ( 279 of 304 )
+Val 	 Are non-mergers  classed  non-mergers : 0.917 ( 275 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.929 ( 275 of 296 )
+
+Epoch 21, Overall loss = 0.157 and accuracy of 0.94
+Val 	 Overall loss = 0.25 and accuracy of 0.892 (535 of 600)
+
+Epoch 22, Overall loss = 0.176 and accuracy of 0.929
+Val 	 Overall loss = 0.239 and accuracy of 0.902 (541 of 600)
+Val 	 Are mergers  classed  mergers : 0.83 ( 249 of 300 )
+Val 	 Classed mergers  are  mergers : 0.969 ( 249 of 257 )
+Val 	 Are non-mergers  classed  non-mergers : 0.973 ( 292 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.851 ( 292 of 343 )
+
+Epoch 23, Overall loss = 0.157 and accuracy of 0.938
+Val 	 Overall loss = 0.212 and accuracy of 0.925 (555 of 600)
+Val 	 Are mergers  classed  mergers : 0.893 ( 268 of 300 )
+Val 	 Classed mergers  are  mergers : 0.954 ( 268 of 281 )
+Val 	 Are non-mergers  classed  non-mergers : 0.957 ( 287 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.9 ( 287 of 319 )
+Saved
+
+Epoch 24, Overall loss = 0.128 and accuracy of 0.956
+Val 	 Overall loss = 0.2 and accuracy of 0.925 (555 of 600)
+Val 	 Are mergers  classed  mergers : 0.883 ( 265 of 300 )
+Val 	 Classed mergers  are  mergers : 0.964 ( 265 of 275 )
+Val 	 Are non-mergers  classed  non-mergers : 0.967 ( 290 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.892 ( 290 of 325 )
+Saved
+
+Epoch 25, Overall loss = 0.158 and accuracy of 0.94
+Val 	 Overall loss = 0.207 and accuracy of 0.927 (556 of 600)
+Val 	 Are mergers  classed  mergers : 0.9 ( 270 of 300 )
+Val 	 Classed mergers  are  mergers : 0.951 ( 270 of 284 )
+Val 	 Are non-mergers  classed  non-mergers : 0.953 ( 286 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.905 ( 286 of 316 )
+
+Epoch 26, Overall loss = 0.144 and accuracy of 0.947
+Val 	 Overall loss = 0.225 and accuracy of 0.912 (547 of 600)
+Val 	 Are mergers  classed  mergers : 0.867 ( 260 of 300 )
+Val 	 Classed mergers  are  mergers : 0.952 ( 260 of 273 )
+Val 	 Are non-mergers  classed  non-mergers : 0.957 ( 287 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.878 ( 287 of 327 )
+
+Epoch 27, Overall loss = 0.128 and accuracy of 0.953
+Val 	 Overall loss = 0.2 and accuracy of 0.925 (555 of 600)
+Val 	 Are mergers  classed  mergers : 0.883 ( 265 of 300 )
+Val 	 Classed mergers  are  mergers : 0.964 ( 265 of 275 )
+Val 	 Are non-mergers  classed  non-mergers : 0.967 ( 290 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.892 ( 290 of 325 )
+Saved
+
+Epoch 28, Overall loss = 0.124 and accuracy of 0.958
+Val 	 Overall loss = 0.209 and accuracy of 0.92 (552 of 600)
+Val 	 Are mergers  classed  mergers : 0.88 ( 264 of 300 )
+Val 	 Classed mergers  are  mergers : 0.957 ( 264 of 276 )
+Val 	 Are non-mergers  classed  non-mergers : 0.96 ( 288 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.889 ( 288 of 324 )
+
+Epoch 29, Overall loss = 0.111 and accuracy of 0.96
+Val 	 Overall loss = 0.192 and accuracy of 0.928 (557 of 600)
+Val 	 Are mergers  classed  mergers : 0.92 ( 276 of 300 )
+Val 	 Classed mergers  are  mergers : 0.936 ( 276 of 295 )
+Val 	 Are non-mergers  classed  non-mergers : 0.937 ( 281 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.921 ( 281 of 305 )
+Saved
+
+Epoch 30, Overall loss = 0.132 and accuracy of 0.949
+Val 	 Overall loss = 0.205 and accuracy of 0.925 (555 of 600)
+Val 	 Are mergers  classed  mergers : 0.903 ( 271 of 300 )
+Val 	 Classed mergers  are  mergers : 0.944 ( 271 of 287 )
+Val 	 Are non-mergers  classed  non-mergers : 0.947 ( 284 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.907 ( 284 of 313 )
+
+Epoch 31, Overall loss = 0.134 and accuracy of 0.945
+Val 	 Overall loss = 0.204 and accuracy of 0.923 (554 of 600)
+Val 	 Are mergers  classed  mergers : 0.897 ( 269 of 300 )
+Val 	 Classed mergers  are  mergers : 0.947 ( 269 of 284 )
+Val 	 Are non-mergers  classed  non-mergers : 0.95 ( 285 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.902 ( 285 of 316 )
+
+Epoch 32, Overall loss = 0.126 and accuracy of 0.948
+Val 	 Overall loss = 0.189 and accuracy of 0.922 (553 of 600)
+Val 	 Are mergers  classed  mergers : 0.883 ( 265 of 300 )
+Val 	 Classed mergers  are  mergers : 0.957 ( 265 of 277 )
+Val 	 Are non-mergers  classed  non-mergers : 0.96 ( 288 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.892 ( 288 of 323 )
+
+Epoch 33, Overall loss = 0.121 and accuracy of 0.951
+Val 	 Overall loss = 0.205 and accuracy of 0.913 (548 of 600)
+Val 	 Are mergers  classed  mergers : 0.887 ( 266 of 300 )
+Val 	 Classed mergers  are  mergers : 0.937 ( 266 of 284 )
+Val 	 Are non-mergers  classed  non-mergers : 0.94 ( 282 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.892 ( 282 of 316 )
+
+Epoch 34, Overall loss = 0.122 and accuracy of 0.958
+Val 	 Overall loss = 0.186 and accuracy of 0.925 (555 of 600)
+Val 	 Are mergers  classed  mergers : 0.893 ( 268 of 300 )
+Val 	 Classed mergers  are  mergers : 0.954 ( 268 of 281 )
+Val 	 Are non-mergers  classed  non-mergers : 0.957 ( 287 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.9 ( 287 of 319 )
+
+Epoch 35, Overall loss = 0.105 and accuracy of 0.962
+Val 	 Overall loss = 0.182 and accuracy of 0.93 (558 of 600)
+Val 	 Are mergers  classed  mergers : 0.913 ( 274 of 300 )
+Val 	 Classed mergers  are  mergers : 0.945 ( 274 of 290 )
+Val 	 Are non-mergers  classed  non-mergers : 0.947 ( 284 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.916 ( 284 of 310 )
+Saved
+
+Epoch 36, Overall loss = 0.0993 and accuracy of 0.962
+Val 	 Overall loss = 0.197 and accuracy of 0.937 (562 of 600)
+Val 	 Are mergers  classed  mergers : 0.943 ( 283 of 300 )
+Val 	 Classed mergers  are  mergers : 0.931 ( 283 of 304 )
+Val 	 Are non-mergers  classed  non-mergers : 0.93 ( 279 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.943 ( 279 of 296 )
+
+Epoch 37, Overall loss = 0.111 and accuracy of 0.957
+Val 	 Overall loss = 0.175 and accuracy of 0.935 (561 of 600)
+Val 	 Are mergers  classed  mergers : 0.923 ( 277 of 300 )
+Val 	 Classed mergers  are  mergers : 0.945 ( 277 of 293 )
+Val 	 Are non-mergers  classed  non-mergers : 0.947 ( 284 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.925 ( 284 of 307 )
+Saved
+
+Epoch 38, Overall loss = 0.117 and accuracy of 0.956
+Val 	 Overall loss = 0.206 and accuracy of 0.935 (561 of 600)
+Val 	 Are mergers  classed  mergers : 0.973 ( 292 of 300 )
+Val 	 Classed mergers  are  mergers : 0.904 ( 292 of 323 )
+Val 	 Are non-mergers  classed  non-mergers : 0.897 ( 269 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.971 ( 269 of 277 )
+
+Epoch 39, Overall loss = 0.111 and accuracy of 0.957
+Val 	 Overall loss = 0.197 and accuracy of 0.928 (557 of 600)
+Val 	 Are mergers  classed  mergers : 0.937 ( 281 of 300 )
+Val 	 Classed mergers  are  mergers : 0.921 ( 281 of 305 )
+Val 	 Are non-mergers  classed  non-mergers : 0.92 ( 276 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.936 ( 276 of 295 )
+
+Epoch 40, Overall loss = 0.0999 and accuracy of 0.967
+Val 	 Overall loss = 0.182 and accuracy of 0.935 (561 of 600)
+Val 	 Are mergers  classed  mergers : 0.92 ( 276 of 300 )
+Val 	 Classed mergers  are  mergers : 0.948 ( 276 of 291 )
+Val 	 Are non-mergers  classed  non-mergers : 0.95 ( 285 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.922 ( 285 of 309 )
+
+Epoch 41, Overall loss = 0.0852 and accuracy of 0.969
+Val 	 Overall loss = 0.184 and accuracy of 0.925 (555 of 600)
+Val 	 Are mergers  classed  mergers : 0.91 ( 273 of 300 )
+Val 	 Classed mergers  are  mergers : 0.938 ( 273 of 291 )
+Val 	 Are non-mergers  classed  non-mergers : 0.94 ( 282 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.913 ( 282 of 309 )
+
+Epoch 42, Overall loss = 0.0893 and accuracy of 0.968
+Val 	 Overall loss = 0.173 and accuracy of 0.932 (559 of 600)
+Val 	 Are mergers  classed  mergers : 0.927 ( 278 of 300 )
+Val 	 Classed mergers  are  mergers : 0.936 ( 278 of 297 )
+Val 	 Are non-mergers  classed  non-mergers : 0.937 ( 281 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.927 ( 281 of 303 )
+
+Epoch 43, Overall loss = 0.0941 and accuracy of 0.96
+Val 	 Overall loss = 0.19 and accuracy of 0.938 (563 of 600)
+Val 	 Are mergers  classed  mergers : 0.95 ( 285 of 300 )
+Val 	 Classed mergers  are  mergers : 0.928 ( 285 of 307 )
+Val 	 Are non-mergers  classed  non-mergers : 0.927 ( 278 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.949 ( 278 of 293 )
+
+Epoch 44, Overall loss = 0.0835 and accuracy of 0.967
+Val 	 Overall loss = 0.184 and accuracy of 0.928 (557 of 600)
+Val 	 Are mergers  classed  mergers : 0.923 ( 277 of 300 )
+Val 	 Classed mergers  are  mergers : 0.933 ( 277 of 297 )
+Val 	 Are non-mergers  classed  non-mergers : 0.933 ( 280 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.924 ( 280 of 303 )
+
+Epoch 45, Overall loss = 0.0852 and accuracy of 0.969
+Val 	 Overall loss = 0.17 and accuracy of 0.93 (558 of 600)
+Val 	 Are mergers  classed  mergers : 0.91 ( 273 of 300 )
+Val 	 Classed mergers  are  mergers : 0.948 ( 273 of 288 )
+Val 	 Are non-mergers  classed  non-mergers : 0.95 ( 285 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.913 ( 285 of 312 )
+
+Epoch 46, Overall loss = 0.0836 and accuracy of 0.97
+Val 	 Overall loss = 0.173 and accuracy of 0.942 (565 of 600)
+Val 	 Are mergers  classed  mergers : 0.957 ( 287 of 300 )
+Val 	 Classed mergers  are  mergers : 0.929 ( 287 of 309 )
+Val 	 Are non-mergers  classed  non-mergers : 0.927 ( 278 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.955 ( 278 of 291 )
+Saved
+
+Epoch 47, Overall loss = 0.0708 and accuracy of 0.975
+Val 	 Overall loss = 0.18 and accuracy of 0.93 (558 of 600)
+Val 	 Are mergers  classed  mergers : 0.93 ( 279 of 300 )
+Val 	 Classed mergers  are  mergers : 0.93 ( 279 of 300 )
+Val 	 Are non-mergers  classed  non-mergers : 0.93 ( 279 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.93 ( 279 of 300 )
+
+Epoch 48, Overall loss = 0.0654 and accuracy of 0.977
+Val 	 Overall loss = 0.172 and accuracy of 0.93 (558 of 600)
+Val 	 Are mergers  classed  mergers : 0.92 ( 276 of 300 )
+Val 	 Classed mergers  are  mergers : 0.939 ( 276 of 294 )
+Val 	 Are non-mergers  classed  non-mergers : 0.94 ( 282 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.922 ( 282 of 306 )
+
+Epoch 49, Overall loss = 0.0849 and accuracy of 0.967
+Val 	 Overall loss = 0.185 and accuracy of 0.917 (550 of 600)
+Val 	 Are mergers  classed  mergers : 0.877 ( 263 of 300 )
+Val 	 Classed mergers  are  mergers : 0.953 ( 263 of 276 )
+Val 	 Are non-mergers  classed  non-mergers : 0.957 ( 287 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.886 ( 287 of 324 )
+
+Epoch 50, Overall loss = 0.0688 and accuracy of 0.975
+Val 	 Overall loss = 0.17 and accuracy of 0.937 (562 of 600)
+Val 	 Are mergers  classed  mergers : 0.95 ( 285 of 300 )
+Val 	 Classed mergers  are  mergers : 0.925 ( 285 of 308 )
+Val 	 Are non-mergers  classed  non-mergers : 0.923 ( 277 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.949 ( 277 of 292 )
+
+Epoch 51, Overall loss = 0.0922 and accuracy of 0.966
+Val 	 Overall loss = 0.17 and accuracy of 0.935 (561 of 600)
+Val 	 Are mergers  classed  mergers : 0.94 ( 282 of 300 )
+Val 	 Classed mergers  are  mergers : 0.931 ( 282 of 303 )
+Val 	 Are non-mergers  classed  non-mergers : 0.93 ( 279 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.939 ( 279 of 297 )
+
+Epoch 52, Overall loss = 0.0996 and accuracy of 0.959
+Val 	 Overall loss = 0.168 and accuracy of 0.933 (560 of 600)
+Val 	 Are mergers  classed  mergers : 0.923 ( 277 of 300 )
+Val 	 Classed mergers  are  mergers : 0.942 ( 277 of 294 )
+Val 	 Are non-mergers  classed  non-mergers : 0.943 ( 283 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.925 ( 283 of 306 )
+
+Epoch 53, Overall loss = 0.0748 and accuracy of 0.971
+Val 	 Overall loss = 0.178 and accuracy of 0.932 (559 of 600)
+Val 	 Are mergers  classed  mergers : 0.93 ( 279 of 300 )
+Val 	 Classed mergers  are  mergers : 0.933 ( 279 of 299 )
+Val 	 Are non-mergers  classed  non-mergers : 0.933 ( 280 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.93 ( 280 of 301 )
+
+Epoch 54, Overall loss = 0.0734 and accuracy of 0.975
+Val 	 Overall loss = 0.19 and accuracy of 0.928 (557 of 600)
+Val 	 Are mergers  classed  mergers : 0.937 ( 281 of 300 )
+Val 	 Classed mergers  are  mergers : 0.921 ( 281 of 305 )
+Val 	 Are non-mergers  classed  non-mergers : 0.92 ( 276 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.936 ( 276 of 295 )
+
+Epoch 55, Overall loss = 0.0626 and accuracy of 0.976
+Val 	 Overall loss = 0.168 and accuracy of 0.933 (560 of 600)
+Val 	 Are mergers  classed  mergers : 0.943 ( 283 of 300 )
+Val 	 Classed mergers  are  mergers : 0.925 ( 283 of 306 )
+Val 	 Are non-mergers  classed  non-mergers : 0.923 ( 277 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.942 ( 277 of 294 )
+
+Epoch 56, Overall loss = 0.0514 and accuracy of 0.984
+Val 	 Overall loss = 0.169 and accuracy of 0.928 (557 of 600)
+Val 	 Are mergers  classed  mergers : 0.92 ( 276 of 300 )
+Val 	 Classed mergers  are  mergers : 0.936 ( 276 of 295 )
+Val 	 Are non-mergers  classed  non-mergers : 0.937 ( 281 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.921 ( 281 of 305 )
+
+Epoch 57, Overall loss = 0.0452 and accuracy of 0.985
+Val 	 Overall loss = 0.211 and accuracy of 0.933 (560 of 600)
+Val 	 Are mergers  classed  mergers : 0.963 ( 289 of 300 )
+Val 	 Classed mergers  are  mergers : 0.909 ( 289 of 318 )
+Val 	 Are non-mergers  classed  non-mergers : 0.903 ( 271 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.961 ( 271 of 282 )
+
+Epoch 58, Overall loss = 0.07 and accuracy of 0.973
+Val 	 Overall loss = 0.175 and accuracy of 0.925 (555 of 600)
+Val 	 Are mergers  classed  mergers : 0.9 ( 270 of 300 )
+Val 	 Classed mergers  are  mergers : 0.947 ( 270 of 285 )
+Val 	 Are non-mergers  classed  non-mergers : 0.95 ( 285 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.905 ( 285 of 315 )
+
+Epoch 59, Overall loss = 0.0639 and accuracy of 0.979
+Val 	 Overall loss = 0.175 and accuracy of 0.932 (559 of 600)
+Val 	 Are mergers  classed  mergers : 0.927 ( 278 of 300 )
+Val 	 Classed mergers  are  mergers : 0.936 ( 278 of 297 )
+Val 	 Are non-mergers  classed  non-mergers : 0.937 ( 281 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.927 ( 281 of 303 )
+
+Epoch 60, Overall loss = 0.0732 and accuracy of 0.973
+Val 	 Overall loss = 0.184 and accuracy of 0.937 (562 of 600)
+Val 	 Are mergers  classed  mergers : 0.943 ( 283 of 300 )
+Val 	 Classed mergers  are  mergers : 0.931 ( 283 of 304 )
+Val 	 Are non-mergers  classed  non-mergers : 0.93 ( 279 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.943 ( 279 of 296 )
+
+Epoch 61, Overall loss = 0.0626 and accuracy of 0.976
+Val 	 Overall loss = 0.172 and accuracy of 0.937 (562 of 600)
+Val 	 Are mergers  classed  mergers : 0.943 ( 283 of 300 )
+Val 	 Classed mergers  are  mergers : 0.931 ( 283 of 304 )
+Val 	 Are non-mergers  classed  non-mergers : 0.93 ( 279 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.943 ( 279 of 296 )
+
+Epoch 62, Overall loss = 0.0693 and accuracy of 0.976
+Val 	 Overall loss = 0.156 and accuracy of 0.935 (561 of 600)
+Val 	 Are mergers  classed  mergers : 0.933 ( 280 of 300 )
+Val 	 Classed mergers  are  mergers : 0.936 ( 280 of 299 )
+Val 	 Are non-mergers  classed  non-mergers : 0.937 ( 281 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.934 ( 281 of 301 )
+
+Epoch 63, Overall loss = 0.0512 and accuracy of 0.982
+Val 	 Overall loss = 0.159 and accuracy of 0.927 (556 of 600)
+Val 	 Are mergers  classed  mergers : 0.923 ( 277 of 300 )
+Val 	 Classed mergers  are  mergers : 0.93 ( 277 of 298 )
+Val 	 Are non-mergers  classed  non-mergers : 0.93 ( 279 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.924 ( 279 of 302 )
+
+Epoch 64, Overall loss = 0.0482 and accuracy of 0.982
+Val 	 Overall loss = 0.179 and accuracy of 0.92 (552 of 600)
+Val 	 Are mergers  classed  mergers : 0.89 ( 267 of 300 )
+Val 	 Classed mergers  are  mergers : 0.947 ( 267 of 282 )
+Val 	 Are non-mergers  classed  non-mergers : 0.95 ( 285 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.896 ( 285 of 318 )
+
+Epoch 65, Overall loss = 0.0454 and accuracy of 0.985
+Val 	 Overall loss = 0.17 and accuracy of 0.923 (554 of 600)
+Val 	 Are mergers  classed  mergers : 0.893 ( 268 of 300 )
+Val 	 Classed mergers  are  mergers : 0.95 ( 268 of 282 )
+Val 	 Are non-mergers  classed  non-mergers : 0.953 ( 286 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.899 ( 286 of 318 )
+
+Epoch 66, Overall loss = 0.0456 and accuracy of 0.984
+Val 	 Overall loss = 0.178 and accuracy of 0.927 (556 of 600)
+Val 	 Are mergers  classed  mergers : 0.907 ( 272 of 300 )
+Val 	 Classed mergers  are  mergers : 0.944 ( 272 of 288 )
+Val 	 Are non-mergers  classed  non-mergers : 0.947 ( 284 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.91 ( 284 of 312 )
+
+Epoch 67, Overall loss = 0.0596 and accuracy of 0.977
+Val 	 Overall loss = 0.176 and accuracy of 0.932 (559 of 600)
+Val 	 Are mergers  classed  mergers : 0.927 ( 278 of 300 )
+Val 	 Classed mergers  are  mergers : 0.936 ( 278 of 297 )
+Val 	 Are non-mergers  classed  non-mergers : 0.937 ( 281 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.927 ( 281 of 303 )
+
+Epoch 68, Overall loss = 0.0758 and accuracy of 0.973
+Val 	 Overall loss = 0.173 and accuracy of 0.933 (560 of 600)
+Val 	 Are mergers  classed  mergers : 0.933 ( 280 of 300 )
+Val 	 Classed mergers  are  mergers : 0.933 ( 280 of 300 )
+Val 	 Are non-mergers  classed  non-mergers : 0.933 ( 280 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.933 ( 280 of 300 )
+
+Epoch 69, Overall loss = 0.0693 and accuracy of 0.971
+Val 	 Overall loss = 0.169 and accuracy of 0.94 (564 of 600)
+Val 	 Are mergers  classed  mergers : 0.963 ( 289 of 300 )
+Val 	 Classed mergers  are  mergers : 0.92 ( 289 of 314 )
+Val 	 Are non-mergers  classed  non-mergers : 0.917 ( 275 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.962 ( 275 of 286 )
+
+Epoch 70, Overall loss = 0.0467 and accuracy of 0.985
+Val 	 Overall loss = 0.187 and accuracy of 0.915 (549 of 600)
+Val 	 Are mergers  classed  mergers : 0.88 ( 264 of 300 )
+Val 	 Classed mergers  are  mergers : 0.946 ( 264 of 279 )
+Val 	 Are non-mergers  classed  non-mergers : 0.95 ( 285 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.888 ( 285 of 321 )
+
+Epoch 71, Overall loss = 0.0371 and accuracy of 0.988
+Val 	 Overall loss = 0.201 and accuracy of 0.938 (563 of 600)
+Val 	 Are mergers  classed  mergers : 0.96 ( 288 of 300 )
+Val 	 Classed mergers  are  mergers : 0.92 ( 288 of 313 )
+Val 	 Are non-mergers  classed  non-mergers : 0.917 ( 275 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.958 ( 275 of 287 )
+
+Epoch 72, Overall loss = 0.0378 and accuracy of 0.989
+Val 	 Overall loss = 0.181 and accuracy of 0.922 (553 of 600)
+Val 	 Are mergers  classed  mergers : 0.89 ( 267 of 300 )
+Val 	 Classed mergers  are  mergers : 0.95 ( 267 of 281 )
+Val 	 Are non-mergers  classed  non-mergers : 0.953 ( 286 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.897 ( 286 of 319 )
+
+Epoch 73, Overall loss = 0.0411 and accuracy of 0.986
+Val 	 Overall loss = 0.169 and accuracy of 0.928 (557 of 600)
+Val 	 Are mergers  classed  mergers : 0.927 ( 278 of 300 )
+Val 	 Classed mergers  are  mergers : 0.93 ( 278 of 299 )
+Val 	 Are non-mergers  classed  non-mergers : 0.93 ( 279 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.927 ( 279 of 301 )
+
+Epoch 74, Overall loss = 0.033 and accuracy of 0.989
+Val 	 Overall loss = 0.199 and accuracy of 0.915 (549 of 600)
+Val 	 Are mergers  classed  mergers : 0.867 ( 260 of 300 )
+Val 	 Classed mergers  are  mergers : 0.959 ( 260 of 271 )
+Val 	 Are non-mergers  classed  non-mergers : 0.963 ( 289 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.878 ( 289 of 329 )
+
+Epoch 75, Overall loss = 0.0381 and accuracy of 0.989
+Val 	 Overall loss = 0.173 and accuracy of 0.927 (556 of 600)
+Val 	 Are mergers  classed  mergers : 0.907 ( 272 of 300 )
+Val 	 Classed mergers  are  mergers : 0.944 ( 272 of 288 )
+Val 	 Are non-mergers  classed  non-mergers : 0.947 ( 284 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.91 ( 284 of 312 )
+
+Epoch 76, Overall loss = 0.0445 and accuracy of 0.984
+Val 	 Overall loss = 0.177 and accuracy of 0.923 (554 of 600)
+Val 	 Are mergers  classed  mergers : 0.897 ( 269 of 300 )
+Val 	 Classed mergers  are  mergers : 0.947 ( 269 of 284 )
+Val 	 Are non-mergers  classed  non-mergers : 0.95 ( 285 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.902 ( 285 of 316 )
+
+Epoch 77, Overall loss = 0.0394 and accuracy of 0.983
+Val 	 Overall loss = 0.165 and accuracy of 0.937 (562 of 600)
+Val 	 Are mergers  classed  mergers : 0.933 ( 280 of 300 )
+Val 	 Classed mergers  are  mergers : 0.94 ( 280 of 298 )
+Val 	 Are non-mergers  classed  non-mergers : 0.94 ( 282 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.934 ( 282 of 302 )
+
+Epoch 78, Overall loss = 0.0475 and accuracy of 0.984
+Val 	 Overall loss = 0.196 and accuracy of 0.915 (549 of 600)
+Val 	 Are mergers  classed  mergers : 0.893 ( 268 of 300 )
+Val 	 Classed mergers  are  mergers : 0.934 ( 268 of 287 )
+Val 	 Are non-mergers  classed  non-mergers : 0.937 ( 281 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.898 ( 281 of 313 )
+
+Epoch 79, Overall loss = 0.0397 and accuracy of 0.986
+Val 	 Overall loss = 0.171 and accuracy of 0.932 (559 of 600)
+Val 	 Are mergers  classed  mergers : 0.913 ( 274 of 300 )
+Val 	 Classed mergers  are  mergers : 0.948 ( 274 of 289 )
+Val 	 Are non-mergers  classed  non-mergers : 0.95 ( 285 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.916 ( 285 of 311 )
+
+Epoch 80, Overall loss = 0.0274 and accuracy of 0.99
+Val 	 Overall loss = 0.175 and accuracy of 0.937 (562 of 600)
+Val 	 Are mergers  classed  mergers : 0.94 ( 282 of 300 )
+Val 	 Classed mergers  are  mergers : 0.934 ( 282 of 302 )
+Val 	 Are non-mergers  classed  non-mergers : 0.933 ( 280 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.94 ( 280 of 298 )
+
+Epoch 81, Overall loss = 0.0291 and accuracy of 0.989
+Val 	 Overall loss = 0.185 and accuracy of 0.93 (558 of 600)
+Val 	 Are mergers  classed  mergers : 0.9 ( 270 of 300 )
+Val 	 Classed mergers  are  mergers : 0.957 ( 270 of 282 )
+Val 	 Are non-mergers  classed  non-mergers : 0.96 ( 288 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.906 ( 288 of 318 )
+
+Epoch 82, Overall loss = 0.0349 and accuracy of 0.987
+Val 	 Overall loss = 0.185 and accuracy of 0.922 (553 of 600)
+Val 	 Are mergers  classed  mergers : 0.89 ( 267 of 300 )
+Val 	 Classed mergers  are  mergers : 0.95 ( 267 of 281 )
+Val 	 Are non-mergers  classed  non-mergers : 0.953 ( 286 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.897 ( 286 of 319 )
+
+Epoch 83, Overall loss = 0.0363 and accuracy of 0.986
+Val 	 Overall loss = 0.189 and accuracy of 0.92 (552 of 600)
+Val 	 Are mergers  classed  mergers : 0.89 ( 267 of 300 )
+Val 	 Classed mergers  are  mergers : 0.947 ( 267 of 282 )
+Val 	 Are non-mergers  classed  non-mergers : 0.95 ( 285 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.896 ( 285 of 318 )
+
+Epoch 84, Overall loss = 0.0458 and accuracy of 0.982
+Val 	 Overall loss = 0.183 and accuracy of 0.928 (557 of 600)
+Val 	 Are mergers  classed  mergers : 0.913 ( 274 of 300 )
+Val 	 Classed mergers  are  mergers : 0.942 ( 274 of 291 )
+Val 	 Are non-mergers  classed  non-mergers : 0.943 ( 283 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.916 ( 283 of 309 )
+
+Epoch 85, Overall loss = 0.0291 and accuracy of 0.989
+Val 	 Overall loss = 0.185 and accuracy of 0.935 (561 of 600)
+Val 	 Are mergers  classed  mergers : 0.937 ( 281 of 300 )
+Val 	 Classed mergers  are  mergers : 0.934 ( 281 of 301 )
+Val 	 Are non-mergers  classed  non-mergers : 0.933 ( 280 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.936 ( 280 of 299 )
+
+Epoch 86, Overall loss = 0.0359 and accuracy of 0.984
+Val 	 Overall loss = 0.205 and accuracy of 0.94 (564 of 600)
+Val 	 Are mergers  classed  mergers : 0.973 ( 292 of 300 )
+Val 	 Classed mergers  are  mergers : 0.912 ( 292 of 320 )
+Val 	 Are non-mergers  classed  non-mergers : 0.907 ( 272 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.971 ( 272 of 280 )
+
+Epoch 87, Overall loss = 0.0271 and accuracy of 0.99
+Val 	 Overall loss = 0.199 and accuracy of 0.927 (556 of 600)
+Val 	 Are mergers  classed  mergers : 0.897 ( 269 of 300 )
+Val 	 Classed mergers  are  mergers : 0.954 ( 269 of 282 )
+Val 	 Are non-mergers  classed  non-mergers : 0.957 ( 287 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.903 ( 287 of 318 )
+
+Epoch 88, Overall loss = 0.029 and accuracy of 0.987
+Val 	 Overall loss = 0.18 and accuracy of 0.932 (559 of 600)
+Val 	 Are mergers  classed  mergers : 0.93 ( 279 of 300 )
+Val 	 Classed mergers  are  mergers : 0.933 ( 279 of 299 )
+Val 	 Are non-mergers  classed  non-mergers : 0.933 ( 280 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.93 ( 280 of 301 )
+
+Epoch 89, Overall loss = 0.0387 and accuracy of 0.984
+Val 	 Overall loss = 0.179 and accuracy of 0.942 (565 of 600)
+Val 	 Are mergers  classed  mergers : 0.947 ( 284 of 300 )
+Val 	 Classed mergers  are  mergers : 0.937 ( 284 of 303 )
+Val 	 Are non-mergers  classed  non-mergers : 0.937 ( 281 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.946 ( 281 of 297 )
+
+Epoch 90, Overall loss = 0.041 and accuracy of 0.986
+Val 	 Overall loss = 0.176 and accuracy of 0.93 (558 of 600)
+Val 	 Are mergers  classed  mergers : 0.923 ( 277 of 300 )
+Val 	 Classed mergers  are  mergers : 0.936 ( 277 of 296 )
+Val 	 Are non-mergers  classed  non-mergers : 0.937 ( 281 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.924 ( 281 of 304 )
+
+Epoch 91, Overall loss = 0.0223 and accuracy of 0.992
+Val 	 Overall loss = 0.205 and accuracy of 0.912 (547 of 600)
+Val 	 Are mergers  classed  mergers : 0.87 ( 261 of 300 )
+Val 	 Classed mergers  are  mergers : 0.949 ( 261 of 275 )
+Val 	 Are non-mergers  classed  non-mergers : 0.953 ( 286 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.88 ( 286 of 325 )
+
+Epoch 92, Overall loss = 0.0249 and accuracy of 0.992
+Val 	 Overall loss = 0.182 and accuracy of 0.942 (565 of 600)
+Val 	 Are mergers  classed  mergers : 0.957 ( 287 of 300 )
+Val 	 Classed mergers  are  mergers : 0.929 ( 287 of 309 )
+Val 	 Are non-mergers  classed  non-mergers : 0.927 ( 278 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.955 ( 278 of 291 )
+
+Epoch 93, Overall loss = 0.0303 and accuracy of 0.989
+Val 	 Overall loss = 0.183 and accuracy of 0.935 (561 of 600)
+Val 	 Are mergers  classed  mergers : 0.933 ( 280 of 300 )
+Val 	 Classed mergers  are  mergers : 0.936 ( 280 of 299 )
+Val 	 Are non-mergers  classed  non-mergers : 0.937 ( 281 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.934 ( 281 of 301 )
+
+Epoch 94, Overall loss = 0.0262 and accuracy of 0.991
+Val 	 Overall loss = 0.175 and accuracy of 0.94 (564 of 600)
+Val 	 Are mergers  classed  mergers : 0.94 ( 282 of 300 )
+Val 	 Classed mergers  are  mergers : 0.94 ( 282 of 300 )
+Val 	 Are non-mergers  classed  non-mergers : 0.94 ( 282 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.94 ( 282 of 300 )
+
+Epoch 95, Overall loss = 0.025 and accuracy of 0.991
+Val 	 Overall loss = 0.21 and accuracy of 0.92 (552 of 600)
+Val 	 Are mergers  classed  mergers : 0.877 ( 263 of 300 )
+Val 	 Classed mergers  are  mergers : 0.96 ( 263 of 274 )
+Val 	 Are non-mergers  classed  non-mergers : 0.963 ( 289 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.887 ( 289 of 326 )
+
+Epoch 96, Overall loss = 0.0217 and accuracy of 0.993
+Val 	 Overall loss = 0.181 and accuracy of 0.935 (561 of 600)
+Val 	 Are mergers  classed  mergers : 0.943 ( 283 of 300 )
+Val 	 Classed mergers  are  mergers : 0.928 ( 283 of 305 )
+Val 	 Are non-mergers  classed  non-mergers : 0.927 ( 278 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.942 ( 278 of 295 )
+
+Epoch 97, Overall loss = 0.0324 and accuracy of 0.987
+Val 	 Overall loss = 0.198 and accuracy of 0.927 (556 of 600)
+Val 	 Are mergers  classed  mergers : 0.897 ( 269 of 300 )
+Val 	 Classed mergers  are  mergers : 0.954 ( 269 of 282 )
+Val 	 Are non-mergers  classed  non-mergers : 0.957 ( 287 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.903 ( 287 of 318 )
+
+Epoch 98, Overall loss = 0.0192 and accuracy of 0.994
+Val 	 Overall loss = 0.188 and accuracy of 0.935 (561 of 600)
+Val 	 Are mergers  classed  mergers : 0.923 ( 277 of 300 )
+Val 	 Classed mergers  are  mergers : 0.945 ( 277 of 293 )
+Val 	 Are non-mergers  classed  non-mergers : 0.947 ( 284 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.925 ( 284 of 307 )
+
+Epoch 99, Overall loss = 0.0224 and accuracy of 0.99
+Val 	 Overall loss = 0.185 and accuracy of 0.935 (561 of 600)
+Val 	 Are mergers  classed  mergers : 0.927 ( 278 of 300 )
+Val 	 Classed mergers  are  mergers : 0.942 ( 278 of 295 )
+Val 	 Are non-mergers  classed  non-mergers : 0.943 ( 283 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.928 ( 283 of 305 )
+
+Epoch 100, Overall loss = 0.0193 and accuracy of 0.994
+Val 	 Overall loss = 0.181 and accuracy of 0.927 (556 of 600)
+Val 	 Are mergers  classed  mergers : 0.903 ( 271 of 300 )
+Val 	 Classed mergers  are  mergers : 0.948 ( 271 of 286 )
+Val 	 Are non-mergers  classed  non-mergers : 0.95 ( 285 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.908 ( 285 of 314 )
+
+Epoch 101, Overall loss = 0.0119 and accuracy of 0.996
+Val 	 Overall loss = 0.187 and accuracy of 0.933 (560 of 600)
+Val 	 Are mergers  classed  mergers : 0.93 ( 279 of 300 )
+Val 	 Classed mergers  are  mergers : 0.936 ( 279 of 298 )
+Val 	 Are non-mergers  classed  non-mergers : 0.937 ( 281 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.93 ( 281 of 302 )
+
+Epoch 102, Overall loss = 0.0156 and accuracy of 0.994
+Val 	 Overall loss = 0.203 and accuracy of 0.928 (557 of 600)
+Val 	 Are mergers  classed  mergers : 0.9 ( 270 of 300 )
+Val 	 Classed mergers  are  mergers : 0.954 ( 270 of 283 )
+Val 	 Are non-mergers  classed  non-mergers : 0.957 ( 287 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.905 ( 287 of 317 )
+
+Epoch 103, Overall loss = 0.0196 and accuracy of 0.995
+Val 	 Overall loss = 0.191 and accuracy of 0.947 (568 of 600)
+Val 	 Are mergers  classed  mergers : 0.97 ( 291 of 300 )
+Val 	 Classed mergers  are  mergers : 0.927 ( 291 of 314 )
+Val 	 Are non-mergers  classed  non-mergers : 0.923 ( 277 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.969 ( 277 of 286 )
+
+Epoch 104, Overall loss = 0.02 and accuracy of 0.994
+Val 	 Overall loss = 0.191 and accuracy of 0.937 (562 of 600)
+Val 	 Are mergers  classed  mergers : 0.937 ( 281 of 300 )
+Val 	 Classed mergers  are  mergers : 0.937 ( 281 of 300 )
+Val 	 Are non-mergers  classed  non-mergers : 0.937 ( 281 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.937 ( 281 of 300 )
+
+Epoch 105, Overall loss = 0.018 and accuracy of 0.994
+Val 	 Overall loss = 0.211 and accuracy of 0.935 (561 of 600)
+Val 	 Are mergers  classed  mergers : 0.94 ( 282 of 300 )
+Val 	 Classed mergers  are  mergers : 0.931 ( 282 of 303 )
+Val 	 Are non-mergers  classed  non-mergers : 0.93 ( 279 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.939 ( 279 of 297 )
+
+Epoch 106, Overall loss = 0.0257 and accuracy of 0.99
+Val 	 Overall loss = 0.194 and accuracy of 0.933 (560 of 600)
+Val 	 Are mergers  classed  mergers : 0.92 ( 276 of 300 )
+Val 	 Classed mergers  are  mergers : 0.945 ( 276 of 292 )
+Val 	 Are non-mergers  classed  non-mergers : 0.947 ( 284 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.922 ( 284 of 308 )
+
+Epoch 107, Overall loss = 0.0207 and accuracy of 0.995
+Val 	 Overall loss = 0.199 and accuracy of 0.933 (560 of 600)
+Val 	 Are mergers  classed  mergers : 0.927 ( 278 of 300 )
+Val 	 Classed mergers  are  mergers : 0.939 ( 278 of 296 )
+Val 	 Are non-mergers  classed  non-mergers : 0.94 ( 282 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.928 ( 282 of 304 )
+
+Epoch 108, Overall loss = 0.0279 and accuracy of 0.992
+Val 	 Overall loss = 0.202 and accuracy of 0.942 (565 of 600)
+Val 	 Are mergers  classed  mergers : 0.947 ( 284 of 300 )
+Val 	 Classed mergers  are  mergers : 0.937 ( 284 of 303 )
+Val 	 Are non-mergers  classed  non-mergers : 0.937 ( 281 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.946 ( 281 of 297 )
+
+Epoch 109, Overall loss = 0.0252 and accuracy of 0.99
+Val 	 Overall loss = 0.222 and accuracy of 0.927 (556 of 600)
+Val 	 Are mergers  classed  mergers : 0.887 ( 266 of 300 )
+Val 	 Classed mergers  are  mergers : 0.964 ( 266 of 276 )
+Val 	 Are non-mergers  classed  non-mergers : 0.967 ( 290 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.895 ( 290 of 324 )
+
+Epoch 110, Overall loss = 0.0206 and accuracy of 0.993
+Val 	 Overall loss = 0.18 and accuracy of 0.932 (559 of 600)
+Val 	 Are mergers  classed  mergers : 0.92 ( 276 of 300 )
+Val 	 Classed mergers  are  mergers : 0.942 ( 276 of 293 )
+Val 	 Are non-mergers  classed  non-mergers : 0.943 ( 283 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.922 ( 283 of 307 )
+
+Epoch 111, Overall loss = 0.0177 and accuracy of 0.992
+Val 	 Overall loss = 0.19 and accuracy of 0.942 (565 of 600)
+Val 	 Are mergers  classed  mergers : 0.94 ( 282 of 300 )
+Val 	 Classed mergers  are  mergers : 0.943 ( 282 of 299 )
+Val 	 Are non-mergers  classed  non-mergers : 0.943 ( 283 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.94 ( 283 of 301 )
+
+Epoch 112, Overall loss = 0.0243 and accuracy of 0.992
+Val 	 Overall loss = 0.195 and accuracy of 0.942 (565 of 600)
+Val 	 Are mergers  classed  mergers : 0.963 ( 289 of 300 )
+Val 	 Classed mergers  are  mergers : 0.923 ( 289 of 313 )
+Val 	 Are non-mergers  classed  non-mergers : 0.92 ( 276 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.962 ( 276 of 287 )
+
+Epoch 113, Overall loss = 0.0186 and accuracy of 0.995
+Val 	 Overall loss = 0.205 and accuracy of 0.945 (567 of 600)
+Val 	 Are mergers  classed  mergers : 0.953 ( 286 of 300 )
+Val 	 Classed mergers  are  mergers : 0.938 ( 286 of 305 )
+Val 	 Are non-mergers  classed  non-mergers : 0.937 ( 281 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.953 ( 281 of 295 )
+
+Epoch 114, Overall loss = 0.0297 and accuracy of 0.988
+Val 	 Overall loss = 0.203 and accuracy of 0.915 (549 of 600)
+Val 	 Are mergers  classed  mergers : 0.877 ( 263 of 300 )
+Val 	 Classed mergers  are  mergers : 0.949 ( 263 of 277 )
+Val 	 Are non-mergers  classed  non-mergers : 0.953 ( 286 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.885 ( 286 of 323 )
+
+Epoch 115, Overall loss = 0.0228 and accuracy of 0.992
+Val 	 Overall loss = 0.18 and accuracy of 0.942 (565 of 600)
+Val 	 Are mergers  classed  mergers : 0.947 ( 284 of 300 )
+Val 	 Classed mergers  are  mergers : 0.937 ( 284 of 303 )
+Val 	 Are non-mergers  classed  non-mergers : 0.937 ( 281 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.946 ( 281 of 297 )
+
+Epoch 116, Overall loss = 0.0116 and accuracy of 0.997
+Val 	 Overall loss = 0.187 and accuracy of 0.933 (560 of 600)
+Val 	 Are mergers  classed  mergers : 0.917 ( 275 of 300 )
+Val 	 Classed mergers  are  mergers : 0.948 ( 275 of 290 )
+Val 	 Are non-mergers  classed  non-mergers : 0.95 ( 285 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.919 ( 285 of 310 )
+
+Epoch 117, Overall loss = 0.00906 and accuracy of 0.999
+Val 	 Overall loss = 0.209 and accuracy of 0.935 (561 of 600)
+Val 	 Are mergers  classed  mergers : 0.917 ( 275 of 300 )
+Val 	 Classed mergers  are  mergers : 0.952 ( 275 of 289 )
+Val 	 Are non-mergers  classed  non-mergers : 0.953 ( 286 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.92 ( 286 of 311 )
+
+Epoch 118, Overall loss = 0.0159 and accuracy of 0.995
+Val 	 Overall loss = 0.219 and accuracy of 0.937 (562 of 600)
+Val 	 Are mergers  classed  mergers : 0.94 ( 282 of 300 )
+Val 	 Classed mergers  are  mergers : 0.934 ( 282 of 302 )
+Val 	 Are non-mergers  classed  non-mergers : 0.933 ( 280 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.94 ( 280 of 298 )
+
+Epoch 119, Overall loss = 0.0366 and accuracy of 0.985
+Val 	 Overall loss = 0.216 and accuracy of 0.923 (554 of 600)
+Val 	 Are mergers  classed  mergers : 0.9 ( 270 of 300 )
+Val 	 Classed mergers  are  mergers : 0.944 ( 270 of 286 )
+Val 	 Are non-mergers  classed  non-mergers : 0.947 ( 284 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.904 ( 284 of 314 )
+
+Epoch 120, Overall loss = 0.0163 and accuracy of 0.995
+Val 	 Overall loss = 0.224 and accuracy of 0.927 (556 of 600)
+Val 	 Are mergers  classed  mergers : 0.9 ( 270 of 300 )
+Val 	 Classed mergers  are  mergers : 0.951 ( 270 of 284 )
+Val 	 Are non-mergers  classed  non-mergers : 0.953 ( 286 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.905 ( 286 of 316 )
+
+Epoch 121, Overall loss = 0.0112 and accuracy of 0.997
+Val 	 Overall loss = 0.199 and accuracy of 0.935 (561 of 600)
+Val 	 Are mergers  classed  mergers : 0.92 ( 276 of 300 )
+Val 	 Classed mergers  are  mergers : 0.948 ( 276 of 291 )
+Val 	 Are non-mergers  classed  non-mergers : 0.95 ( 285 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.922 ( 285 of 309 )
+
+Epoch 122, Overall loss = 0.0137 and accuracy of 0.995
+Val 	 Overall loss = 0.199 and accuracy of 0.933 (560 of 600)
+Val 	 Are mergers  classed  mergers : 0.92 ( 276 of 300 )
+Val 	 Classed mergers  are  mergers : 0.945 ( 276 of 292 )
+Val 	 Are non-mergers  classed  non-mergers : 0.947 ( 284 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.922 ( 284 of 308 )
+
+Epoch 123, Overall loss = 0.0107 and accuracy of 0.997
+Val 	 Overall loss = 0.2 and accuracy of 0.93 (558 of 600)
+Val 	 Are mergers  classed  mergers : 0.92 ( 276 of 300 )
+Val 	 Classed mergers  are  mergers : 0.939 ( 276 of 294 )
+Val 	 Are non-mergers  classed  non-mergers : 0.94 ( 282 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.922 ( 282 of 306 )
+
+Epoch 124, Overall loss = 0.00979 and accuracy of 0.997
+Val 	 Overall loss = 0.248 and accuracy of 0.923 (554 of 600)
+Val 	 Are mergers  classed  mergers : 0.883 ( 265 of 300 )
+Val 	 Classed mergers  are  mergers : 0.96 ( 265 of 276 )
+Val 	 Are non-mergers  classed  non-mergers : 0.963 ( 289 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.892 ( 289 of 324 )
+
+Epoch 125, Overall loss = 0.0139 and accuracy of 0.996
+Val 	 Overall loss = 0.204 and accuracy of 0.935 (561 of 600)
+Val 	 Are mergers  classed  mergers : 0.927 ( 278 of 300 )
+Val 	 Classed mergers  are  mergers : 0.942 ( 278 of 295 )
+Val 	 Are non-mergers  classed  non-mergers : 0.943 ( 283 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.928 ( 283 of 305 )
+
+Epoch 126, Overall loss = 0.00927 and accuracy of 0.997
+Val 	 Overall loss = 0.227 and accuracy of 0.925 (555 of 600)
+Val 	 Are mergers  classed  mergers : 0.893 ( 268 of 300 )
+Val 	 Classed mergers  are  mergers : 0.954 ( 268 of 281 )
+Val 	 Are non-mergers  classed  non-mergers : 0.957 ( 287 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.9 ( 287 of 319 )
+
+Epoch 127, Overall loss = 0.0089 and accuracy of 0.997
+Val 	 Overall loss = 0.22 and accuracy of 0.938 (563 of 600)
+Val 	 Are mergers  classed  mergers : 0.927 ( 278 of 300 )
+Val 	 Classed mergers  are  mergers : 0.949 ( 278 of 293 )
+Val 	 Are non-mergers  classed  non-mergers : 0.95 ( 285 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.928 ( 285 of 307 )
+
+Epoch 128, Overall loss = 0.0195 and accuracy of 0.992
+Val 	 Overall loss = 0.208 and accuracy of 0.935 (561 of 600)
+Val 	 Are mergers  classed  mergers : 0.917 ( 275 of 300 )
+Val 	 Classed mergers  are  mergers : 0.952 ( 275 of 289 )
+Val 	 Are non-mergers  classed  non-mergers : 0.953 ( 286 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.92 ( 286 of 311 )
+
+Epoch 129, Overall loss = 0.0191 and accuracy of 0.993
+Val 	 Overall loss = 0.192 and accuracy of 0.938 (563 of 600)
+Val 	 Are mergers  classed  mergers : 0.937 ( 281 of 300 )
+Val 	 Classed mergers  are  mergers : 0.94 ( 281 of 299 )
+Val 	 Are non-mergers  classed  non-mergers : 0.94 ( 282 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.937 ( 282 of 301 )
+
+Epoch 130, Overall loss = 0.0184 and accuracy of 0.994
+Val 	 Overall loss = 0.207 and accuracy of 0.933 (560 of 600)
+Val 	 Are mergers  classed  mergers : 0.937 ( 281 of 300 )
+Val 	 Classed mergers  are  mergers : 0.93 ( 281 of 302 )
+Val 	 Are non-mergers  classed  non-mergers : 0.93 ( 279 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.936 ( 279 of 298 )
+
+Epoch 131, Overall loss = 0.0181 and accuracy of 0.991
+Val 	 Overall loss = 0.237 and accuracy of 0.922 (553 of 600)
+Val 	 Are mergers  classed  mergers : 0.89 ( 267 of 300 )
+Val 	 Classed mergers  are  mergers : 0.95 ( 267 of 281 )
+Val 	 Are non-mergers  classed  non-mergers : 0.953 ( 286 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.897 ( 286 of 319 )
+
+Epoch 132, Overall loss = 0.0199 and accuracy of 0.99
+Val 	 Overall loss = 0.219 and accuracy of 0.917 (550 of 600)
+Val 	 Are mergers  classed  mergers : 0.883 ( 265 of 300 )
+Val 	 Classed mergers  are  mergers : 0.946 ( 265 of 280 )
+Val 	 Are non-mergers  classed  non-mergers : 0.95 ( 285 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.891 ( 285 of 320 )
+
+Epoch 133, Overall loss = 0.0149 and accuracy of 0.996
+Val 	 Overall loss = 0.209 and accuracy of 0.932 (559 of 600)
+Val 	 Are mergers  classed  mergers : 0.91 ( 273 of 300 )
+Val 	 Classed mergers  are  mergers : 0.951 ( 273 of 287 )
+Val 	 Are non-mergers  classed  non-mergers : 0.953 ( 286 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.914 ( 286 of 313 )
+
+Epoch 134, Overall loss = 0.0109 and accuracy of 0.996
+Val 	 Overall loss = 0.214 and accuracy of 0.952 (571 of 600)
+Val 	 Are mergers  classed  mergers : 0.96 ( 288 of 300 )
+Val 	 Classed mergers  are  mergers : 0.944 ( 288 of 305 )
+Val 	 Are non-mergers  classed  non-mergers : 0.943 ( 283 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.959 ( 283 of 295 )
+
+Epoch 135, Overall loss = 0.0153 and accuracy of 0.995
+Val 	 Overall loss = 0.206 and accuracy of 0.938 (563 of 600)
+Val 	 Are mergers  classed  mergers : 0.927 ( 278 of 300 )
+Val 	 Classed mergers  are  mergers : 0.949 ( 278 of 293 )
+Val 	 Are non-mergers  classed  non-mergers : 0.95 ( 285 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.928 ( 285 of 307 )
+
+Epoch 136, Overall loss = 0.0093 and accuracy of 0.997
+Val 	 Overall loss = 0.197 and accuracy of 0.943 (566 of 600)
+Val 	 Are mergers  classed  mergers : 0.943 ( 283 of 300 )
+Val 	 Classed mergers  are  mergers : 0.943 ( 283 of 300 )
+Val 	 Are non-mergers  classed  non-mergers : 0.943 ( 283 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.943 ( 283 of 300 )
+
+Epoch 137, Overall loss = 0.00717 and accuracy of 0.998
+Val 	 Overall loss = 0.235 and accuracy of 0.927 (556 of 600)
+Val 	 Are mergers  classed  mergers : 0.9 ( 270 of 300 )
+Val 	 Classed mergers  are  mergers : 0.951 ( 270 of 284 )
+Val 	 Are non-mergers  classed  non-mergers : 0.953 ( 286 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.905 ( 286 of 316 )
+
+Epoch 138, Overall loss = 0.0126 and accuracy of 0.996
+Val 	 Overall loss = 0.21 and accuracy of 0.937 (562 of 600)
+Val 	 Are mergers  classed  mergers : 0.913 ( 274 of 300 )
+Val 	 Classed mergers  are  mergers : 0.958 ( 274 of 286 )
+Val 	 Are non-mergers  classed  non-mergers : 0.96 ( 288 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.917 ( 288 of 314 )
+
+Epoch 139, Overall loss = 0.0101 and accuracy of 0.996
+Val 	 Overall loss = 0.203 and accuracy of 0.935 (561 of 600)
+Val 	 Are mergers  classed  mergers : 0.923 ( 277 of 300 )
+Val 	 Classed mergers  are  mergers : 0.945 ( 277 of 293 )
+Val 	 Are non-mergers  classed  non-mergers : 0.947 ( 284 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.925 ( 284 of 307 )
+
+Epoch 140, Overall loss = 0.0104 and accuracy of 0.997
+Val 	 Overall loss = 0.235 and accuracy of 0.928 (557 of 600)
+Val 	 Are mergers  classed  mergers : 0.91 ( 273 of 300 )
+Val 	 Classed mergers  are  mergers : 0.945 ( 273 of 289 )
+Val 	 Are non-mergers  classed  non-mergers : 0.947 ( 284 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.913 ( 284 of 311 )
+
+Epoch 141, Overall loss = 0.00816 and accuracy of 0.997
+Val 	 Overall loss = 0.247 and accuracy of 0.923 (554 of 600)
+Val 	 Are mergers  classed  mergers : 0.9 ( 270 of 300 )
+Val 	 Classed mergers  are  mergers : 0.944 ( 270 of 286 )
+Val 	 Are non-mergers  classed  non-mergers : 0.947 ( 284 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.904 ( 284 of 314 )
+
+Epoch 142, Overall loss = 0.00922 and accuracy of 0.996
+Val 	 Overall loss = 0.209 and accuracy of 0.943 (566 of 600)
+Val 	 Are mergers  classed  mergers : 0.93 ( 279 of 300 )
+Val 	 Classed mergers  are  mergers : 0.955 ( 279 of 292 )
+Val 	 Are non-mergers  classed  non-mergers : 0.957 ( 287 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.932 ( 287 of 308 )
+
+Epoch 143, Overall loss = 0.009 and accuracy of 0.996
+Val 	 Overall loss = 0.229 and accuracy of 0.935 (561 of 600)
+Val 	 Are mergers  classed  mergers : 0.923 ( 277 of 300 )
+Val 	 Classed mergers  are  mergers : 0.945 ( 277 of 293 )
+Val 	 Are non-mergers  classed  non-mergers : 0.947 ( 284 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.925 ( 284 of 307 )
+
+Epoch 144, Overall loss = 0.0123 and accuracy of 0.995
+Val 	 Overall loss = 0.236 and accuracy of 0.94 (564 of 600)
+Val 	 Are mergers  classed  mergers : 0.937 ( 281 of 300 )
+Val 	 Classed mergers  are  mergers : 0.943 ( 281 of 298 )
+Val 	 Are non-mergers  classed  non-mergers : 0.943 ( 283 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.937 ( 283 of 302 )
+
+Epoch 145, Overall loss = 0.0114 and accuracy of 0.997
+Val 	 Overall loss = 0.235 and accuracy of 0.935 (561 of 600)
+Val 	 Are mergers  classed  mergers : 0.917 ( 275 of 300 )
+Val 	 Classed mergers  are  mergers : 0.952 ( 275 of 289 )
+Val 	 Are non-mergers  classed  non-mergers : 0.953 ( 286 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.92 ( 286 of 311 )
+
+Epoch 146, Overall loss = 0.0129 and accuracy of 0.995
+Val 	 Overall loss = 0.23 and accuracy of 0.927 (556 of 600)
+Val 	 Are mergers  classed  mergers : 0.907 ( 272 of 300 )
+Val 	 Classed mergers  are  mergers : 0.944 ( 272 of 288 )
+Val 	 Are non-mergers  classed  non-mergers : 0.947 ( 284 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.91 ( 284 of 312 )
+
+Epoch 147, Overall loss = 0.0187 and accuracy of 0.995
+Val 	 Overall loss = 0.237 and accuracy of 0.93 (558 of 600)
+Val 	 Are mergers  classed  mergers : 0.92 ( 276 of 300 )
+Val 	 Classed mergers  are  mergers : 0.939 ( 276 of 294 )
+Val 	 Are non-mergers  classed  non-mergers : 0.94 ( 282 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.922 ( 282 of 306 )
+
+Epoch 148, Overall loss = 0.0131 and accuracy of 0.995
+Val 	 Overall loss = 0.274 and accuracy of 0.917 (550 of 600)
+Val 	 Are mergers  classed  mergers : 0.883 ( 265 of 300 )
+Val 	 Classed mergers  are  mergers : 0.946 ( 265 of 280 )
+Val 	 Are non-mergers  classed  non-mergers : 0.95 ( 285 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.891 ( 285 of 320 )
+
+Epoch 149, Overall loss = 0.00911 and accuracy of 0.997
+Val 	 Overall loss = 0.248 and accuracy of 0.922 (553 of 600)
+Val 	 Are mergers  classed  mergers : 0.883 ( 265 of 300 )
+Val 	 Classed mergers  are  mergers : 0.957 ( 265 of 277 )
+Val 	 Are non-mergers  classed  non-mergers : 0.96 ( 288 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.892 ( 288 of 323 )
+
+Epoch 150, Overall loss = 0.0128 and accuracy of 0.996
+Val 	 Overall loss = 0.245 and accuracy of 0.927 (556 of 600)
+Val 	 Are mergers  classed  mergers : 0.89 ( 267 of 300 )
+Val 	 Classed mergers  are  mergers : 0.96 ( 267 of 278 )
+Val 	 Are non-mergers  classed  non-mergers : 0.963 ( 289 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.898 ( 289 of 322 )
+
+Epoch 151, Overall loss = 0.025 and accuracy of 0.989
+Val 	 Overall loss = 0.211 and accuracy of 0.937 (562 of 600)
+Val 	 Are mergers  classed  mergers : 0.957 ( 287 of 300 )
+Val 	 Classed mergers  are  mergers : 0.92 ( 287 of 312 )
+Val 	 Are non-mergers  classed  non-mergers : 0.917 ( 275 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.955 ( 275 of 288 )
+
+Epoch 152, Overall loss = 0.0207 and accuracy of 0.992
+Val 	 Overall loss = 0.232 and accuracy of 0.927 (556 of 600)
+Val 	 Are mergers  classed  mergers : 0.893 ( 268 of 300 )
+Val 	 Classed mergers  are  mergers : 0.957 ( 268 of 280 )
+Val 	 Are non-mergers  classed  non-mergers : 0.96 ( 288 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.9 ( 288 of 320 )
+
+Epoch 153, Overall loss = 0.0125 and accuracy of 0.995
+Val 	 Overall loss = 0.219 and accuracy of 0.932 (559 of 600)
+Val 	 Are mergers  classed  mergers : 0.913 ( 274 of 300 )
+Val 	 Classed mergers  are  mergers : 0.948 ( 274 of 289 )
+Val 	 Are non-mergers  classed  non-mergers : 0.95 ( 285 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.916 ( 285 of 311 )
+
+Epoch 154, Overall loss = 0.0111 and accuracy of 0.997
+Val 	 Overall loss = 0.203 and accuracy of 0.942 (565 of 600)
+Val 	 Are mergers  classed  mergers : 0.933 ( 280 of 300 )
+Val 	 Classed mergers  are  mergers : 0.949 ( 280 of 295 )
+Val 	 Are non-mergers  classed  non-mergers : 0.95 ( 285 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.934 ( 285 of 305 )
+
+Epoch 155, Overall loss = 0.0103 and accuracy of 0.997
+Val 	 Overall loss = 0.217 and accuracy of 0.935 (561 of 600)
+Val 	 Are mergers  classed  mergers : 0.917 ( 275 of 300 )
+Val 	 Classed mergers  are  mergers : 0.952 ( 275 of 289 )
+Val 	 Are non-mergers  classed  non-mergers : 0.953 ( 286 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.92 ( 286 of 311 )
+
+Epoch 156, Overall loss = 0.00484 and accuracy of 0.999
+Val 	 Overall loss = 0.226 and accuracy of 0.93 (558 of 600)
+Val 	 Are mergers  classed  mergers : 0.91 ( 273 of 300 )
+Val 	 Classed mergers  are  mergers : 0.948 ( 273 of 288 )
+Val 	 Are non-mergers  classed  non-mergers : 0.95 ( 285 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.913 ( 285 of 312 )
+
+Epoch 157, Overall loss = 0.00499 and accuracy of 0.997
+Val 	 Overall loss = 0.227 and accuracy of 0.937 (562 of 600)
+Val 	 Are mergers  classed  mergers : 0.93 ( 279 of 300 )
+Val 	 Classed mergers  are  mergers : 0.943 ( 279 of 296 )
+Val 	 Are non-mergers  classed  non-mergers : 0.943 ( 283 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.931 ( 283 of 304 )
+
+Epoch 158, Overall loss = 0.00384 and accuracy of 0.999
+Val 	 Overall loss = 0.233 and accuracy of 0.932 (559 of 600)
+Val 	 Are mergers  classed  mergers : 0.91 ( 273 of 300 )
+Val 	 Classed mergers  are  mergers : 0.951 ( 273 of 287 )
+Val 	 Are non-mergers  classed  non-mergers : 0.953 ( 286 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.914 ( 286 of 313 )
+
+Epoch 159, Overall loss = 0.00869 and accuracy of 0.997
+Val 	 Overall loss = 0.232 and accuracy of 0.937 (562 of 600)
+Val 	 Are mergers  classed  mergers : 0.93 ( 279 of 300 )
+Val 	 Classed mergers  are  mergers : 0.943 ( 279 of 296 )
+Val 	 Are non-mergers  classed  non-mergers : 0.943 ( 283 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.931 ( 283 of 304 )
+
+Epoch 160, Overall loss = 0.00855 and accuracy of 0.997
+Val 	 Overall loss = 0.244 and accuracy of 0.93 (558 of 600)
+Val 	 Are mergers  classed  mergers : 0.903 ( 271 of 300 )
+Val 	 Classed mergers  are  mergers : 0.954 ( 271 of 284 )
+Val 	 Are non-mergers  classed  non-mergers : 0.957 ( 287 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.908 ( 287 of 316 )
+
+Epoch 161, Overall loss = 0.0043 and accuracy of 0.999
+Val 	 Overall loss = 0.245 and accuracy of 0.933 (560 of 600)
+Val 	 Are mergers  classed  mergers : 0.91 ( 273 of 300 )
+Val 	 Classed mergers  are  mergers : 0.955 ( 273 of 286 )
+Val 	 Are non-mergers  classed  non-mergers : 0.957 ( 287 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.914 ( 287 of 314 )
+
+Epoch 162, Overall loss = 0.00365 and accuracy of 0.999
+Val 	 Overall loss = 0.255 and accuracy of 0.935 (561 of 600)
+Val 	 Are mergers  classed  mergers : 0.913 ( 274 of 300 )
+Val 	 Classed mergers  are  mergers : 0.955 ( 274 of 287 )
+Val 	 Are non-mergers  classed  non-mergers : 0.957 ( 287 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.917 ( 287 of 313 )
+
+Epoch 163, Overall loss = 0.00515 and accuracy of 0.999
+Val 	 Overall loss = 0.214 and accuracy of 0.943 (566 of 600)
+Val 	 Are mergers  classed  mergers : 0.94 ( 282 of 300 )
+Val 	 Classed mergers  are  mergers : 0.946 ( 282 of 298 )
+Val 	 Are non-mergers  classed  non-mergers : 0.947 ( 284 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.94 ( 284 of 302 )
+
+Epoch 164, Overall loss = 0.00954 and accuracy of 0.996
+Val 	 Overall loss = 0.228 and accuracy of 0.932 (559 of 600)
+Val 	 Are mergers  classed  mergers : 0.91 ( 273 of 300 )
+Val 	 Classed mergers  are  mergers : 0.951 ( 273 of 287 )
+Val 	 Are non-mergers  classed  non-mergers : 0.953 ( 286 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.914 ( 286 of 313 )
+
+Epoch 165, Overall loss = 0.0046 and accuracy of 0.998
+Val 	 Overall loss = 0.225 and accuracy of 0.945 (567 of 600)
+Val 	 Are mergers  classed  mergers : 0.947 ( 284 of 300 )
+Val 	 Classed mergers  are  mergers : 0.944 ( 284 of 301 )
+Val 	 Are non-mergers  classed  non-mergers : 0.943 ( 283 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.946 ( 283 of 299 )
+
+Epoch 166, Overall loss = 0.00464 and accuracy of 0.999
+Val 	 Overall loss = 0.261 and accuracy of 0.93 (558 of 600)
+Val 	 Are mergers  classed  mergers : 0.91 ( 273 of 300 )
+Val 	 Classed mergers  are  mergers : 0.948 ( 273 of 288 )
+Val 	 Are non-mergers  classed  non-mergers : 0.95 ( 285 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.913 ( 285 of 312 )
+
+Epoch 167, Overall loss = 0.00437 and accuracy of 0.998
+Val 	 Overall loss = 0.236 and accuracy of 0.943 (566 of 600)
+Val 	 Are mergers  classed  mergers : 0.937 ( 281 of 300 )
+Val 	 Classed mergers  are  mergers : 0.949 ( 281 of 296 )
+Val 	 Are non-mergers  classed  non-mergers : 0.95 ( 285 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.938 ( 285 of 304 )
+
+Epoch 168, Overall loss = 0.00603 and accuracy of 0.998
+Val 	 Overall loss = 0.228 and accuracy of 0.95 (570 of 600)
+Val 	 Are mergers  classed  mergers : 0.957 ( 287 of 300 )
+Val 	 Classed mergers  are  mergers : 0.944 ( 287 of 304 )
+Val 	 Are non-mergers  classed  non-mergers : 0.943 ( 283 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.956 ( 283 of 296 )
+
+Epoch 169, Overall loss = 0.00946 and accuracy of 0.996
+Val 	 Overall loss = 0.229 and accuracy of 0.938 (563 of 600)
+Val 	 Are mergers  classed  mergers : 0.937 ( 281 of 300 )
+Val 	 Classed mergers  are  mergers : 0.94 ( 281 of 299 )
+Val 	 Are non-mergers  classed  non-mergers : 0.94 ( 282 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.937 ( 282 of 301 )
+
+Epoch 170, Overall loss = 0.00739 and accuracy of 0.997
+Val 	 Overall loss = 0.27 and accuracy of 0.923 (554 of 600)
+Val 	 Are mergers  classed  mergers : 0.897 ( 269 of 300 )
+Val 	 Classed mergers  are  mergers : 0.947 ( 269 of 284 )
+Val 	 Are non-mergers  classed  non-mergers : 0.95 ( 285 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.902 ( 285 of 316 )
+
+Epoch 171, Overall loss = 0.027 and accuracy of 0.989
+Val 	 Overall loss = 0.293 and accuracy of 0.942 (565 of 600)
+Val 	 Are mergers  classed  mergers : 0.97 ( 291 of 300 )
+Val 	 Classed mergers  are  mergers : 0.918 ( 291 of 317 )
+Val 	 Are non-mergers  classed  non-mergers : 0.913 ( 274 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.968 ( 274 of 283 )
+
+Epoch 172, Overall loss = 0.0225 and accuracy of 0.991
+Val 	 Overall loss = 0.269 and accuracy of 0.922 (553 of 600)
+Val 	 Are mergers  classed  mergers : 0.873 ( 262 of 300 )
+Val 	 Classed mergers  are  mergers : 0.967 ( 262 of 271 )
+Val 	 Are non-mergers  classed  non-mergers : 0.97 ( 291 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.884 ( 291 of 329 )
+
+Epoch 173, Overall loss = 0.0307 and accuracy of 0.989
+Val 	 Overall loss = 0.213 and accuracy of 0.93 (558 of 600)
+Val 	 Are mergers  classed  mergers : 0.903 ( 271 of 300 )
+Val 	 Classed mergers  are  mergers : 0.954 ( 271 of 284 )
+Val 	 Are non-mergers  classed  non-mergers : 0.957 ( 287 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.908 ( 287 of 316 )
+
+Epoch 174, Overall loss = 0.0056 and accuracy of 1
+Val 	 Overall loss = 0.221 and accuracy of 0.932 (559 of 600)
+Val 	 Are mergers  classed  mergers : 0.917 ( 275 of 300 )
+Val 	 Classed mergers  are  mergers : 0.945 ( 275 of 291 )
+Val 	 Are non-mergers  classed  non-mergers : 0.947 ( 284 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.919 ( 284 of 309 )
+
+Epoch 175, Overall loss = 0.00821 and accuracy of 0.997
+Val 	 Overall loss = 0.217 and accuracy of 0.938 (563 of 600)
+Val 	 Are mergers  classed  mergers : 0.93 ( 279 of 300 )
+Val 	 Classed mergers  are  mergers : 0.946 ( 279 of 295 )
+Val 	 Are non-mergers  classed  non-mergers : 0.947 ( 284 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.931 ( 284 of 305 )
+
+Epoch 176, Overall loss = 0.0085 and accuracy of 0.997
+Val 	 Overall loss = 0.207 and accuracy of 0.933 (560 of 600)
+Val 	 Are mergers  classed  mergers : 0.933 ( 280 of 300 )
+Val 	 Classed mergers  are  mergers : 0.933 ( 280 of 300 )
+Val 	 Are non-mergers  classed  non-mergers : 0.933 ( 280 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.933 ( 280 of 300 )
+
+Epoch 177, Overall loss = 0.00418 and accuracy of 0.999
+Val 	 Overall loss = 0.22 and accuracy of 0.935 (561 of 600)
+Val 	 Are mergers  classed  mergers : 0.917 ( 275 of 300 )
+Val 	 Classed mergers  are  mergers : 0.952 ( 275 of 289 )
+Val 	 Are non-mergers  classed  non-mergers : 0.953 ( 286 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.92 ( 286 of 311 )
+
+Epoch 178, Overall loss = 0.00426 and accuracy of 0.999
+Val 	 Overall loss = 0.217 and accuracy of 0.942 (565 of 600)
+Val 	 Are mergers  classed  mergers : 0.93 ( 279 of 300 )
+Val 	 Classed mergers  are  mergers : 0.952 ( 279 of 293 )
+Val 	 Are non-mergers  classed  non-mergers : 0.953 ( 286 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.932 ( 286 of 307 )
+
+Epoch 179, Overall loss = 0.00569 and accuracy of 0.998
+Val 	 Overall loss = 0.221 and accuracy of 0.938 (563 of 600)
+Val 	 Are mergers  classed  mergers : 0.92 ( 276 of 300 )
+Val 	 Classed mergers  are  mergers : 0.955 ( 276 of 289 )
+Val 	 Are non-mergers  classed  non-mergers : 0.957 ( 287 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.923 ( 287 of 311 )
+
+Epoch 180, Overall loss = 0.00349 and accuracy of 0.999
+Val 	 Overall loss = 0.25 and accuracy of 0.925 (555 of 600)
+Val 	 Are mergers  classed  mergers : 0.893 ( 268 of 300 )
+Val 	 Classed mergers  are  mergers : 0.954 ( 268 of 281 )
+Val 	 Are non-mergers  classed  non-mergers : 0.957 ( 287 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.9 ( 287 of 319 )
+
+Epoch 181, Overall loss = 0.00334 and accuracy of 0.999
+Val 	 Overall loss = 0.226 and accuracy of 0.937 (562 of 600)
+Val 	 Are mergers  classed  mergers : 0.927 ( 278 of 300 )
+Val 	 Classed mergers  are  mergers : 0.946 ( 278 of 294 )
+Val 	 Are non-mergers  classed  non-mergers : 0.947 ( 284 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.928 ( 284 of 306 )
+
+Epoch 182, Overall loss = 0.00487 and accuracy of 0.998
+Val 	 Overall loss = 0.236 and accuracy of 0.93 (558 of 600)
+Val 	 Are mergers  classed  mergers : 0.903 ( 271 of 300 )
+Val 	 Classed mergers  are  mergers : 0.954 ( 271 of 284 )
+Val 	 Are non-mergers  classed  non-mergers : 0.957 ( 287 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.908 ( 287 of 316 )
+
+Epoch 183, Overall loss = 0.00355 and accuracy of 0.999
+Val 	 Overall loss = 0.234 and accuracy of 0.933 (560 of 600)
+Val 	 Are mergers  classed  mergers : 0.907 ( 272 of 300 )
+Val 	 Classed mergers  are  mergers : 0.958 ( 272 of 284 )
+Val 	 Are non-mergers  classed  non-mergers : 0.96 ( 288 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.911 ( 288 of 316 )
+
+Epoch 184, Overall loss = 0.00251 and accuracy of 1
+Val 	 Overall loss = 0.252 and accuracy of 0.927 (556 of 600)
+Val 	 Are mergers  classed  mergers : 0.897 ( 269 of 300 )
+Val 	 Classed mergers  are  mergers : 0.954 ( 269 of 282 )
+Val 	 Are non-mergers  classed  non-mergers : 0.957 ( 287 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.903 ( 287 of 318 )
+
+Epoch 185, Overall loss = 0.00737 and accuracy of 0.997
+Val 	 Overall loss = 0.286 and accuracy of 0.908 (545 of 600)
+Val 	 Are mergers  classed  mergers : 0.853 ( 256 of 300 )
+Val 	 Classed mergers  are  mergers : 0.959 ( 256 of 267 )
+Val 	 Are non-mergers  classed  non-mergers : 0.963 ( 289 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.868 ( 289 of 333 )
+
+Epoch 186, Overall loss = 0.0167 and accuracy of 0.994
+Val 	 Overall loss = 0.218 and accuracy of 0.935 (561 of 600)
+Val 	 Are mergers  classed  mergers : 0.91 ( 273 of 300 )
+Val 	 Classed mergers  are  mergers : 0.958 ( 273 of 285 )
+Val 	 Are non-mergers  classed  non-mergers : 0.96 ( 288 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.914 ( 288 of 315 )
+
+Epoch 187, Overall loss = 0.00664 and accuracy of 0.998
+Val 	 Overall loss = 0.218 and accuracy of 0.94 (564 of 600)
+Val 	 Are mergers  classed  mergers : 0.923 ( 277 of 300 )
+Val 	 Classed mergers  are  mergers : 0.955 ( 277 of 290 )
+Val 	 Are non-mergers  classed  non-mergers : 0.957 ( 287 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.926 ( 287 of 310 )
+
+Epoch 188, Overall loss = 0.00353 and accuracy of 0.999
+Val 	 Overall loss = 0.215 and accuracy of 0.94 (564 of 600)
+Val 	 Are mergers  classed  mergers : 0.94 ( 282 of 300 )
+Val 	 Classed mergers  are  mergers : 0.94 ( 282 of 300 )
+Val 	 Are non-mergers  classed  non-mergers : 0.94 ( 282 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.94 ( 282 of 300 )
+
+Epoch 189, Overall loss = 0.00927 and accuracy of 0.997
+Val 	 Overall loss = 0.224 and accuracy of 0.945 (567 of 600)
+Val 	 Are mergers  classed  mergers : 0.933 ( 280 of 300 )
+Val 	 Classed mergers  are  mergers : 0.956 ( 280 of 293 )
+Val 	 Are non-mergers  classed  non-mergers : 0.957 ( 287 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.935 ( 287 of 307 )
+
+Epoch 190, Overall loss = 0.00937 and accuracy of 0.996
+Val 	 Overall loss = 0.296 and accuracy of 0.923 (554 of 600)
+Val 	 Are mergers  classed  mergers : 0.88 ( 264 of 300 )
+Val 	 Classed mergers  are  mergers : 0.964 ( 264 of 274 )
+Val 	 Are non-mergers  classed  non-mergers : 0.967 ( 290 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.89 ( 290 of 326 )
+
+Epoch 191, Overall loss = 0.00337 and accuracy of 0.998
+Val 	 Overall loss = 0.238 and accuracy of 0.935 (561 of 600)
+Val 	 Are mergers  classed  mergers : 0.917 ( 275 of 300 )
+Val 	 Classed mergers  are  mergers : 0.952 ( 275 of 289 )
+Val 	 Are non-mergers  classed  non-mergers : 0.953 ( 286 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.92 ( 286 of 311 )
+
+Epoch 192, Overall loss = 0.00166 and accuracy of 0.999
+Val 	 Overall loss = 0.243 and accuracy of 0.937 (562 of 600)
+Val 	 Are mergers  classed  mergers : 0.913 ( 274 of 300 )
+Val 	 Classed mergers  are  mergers : 0.958 ( 274 of 286 )
+Val 	 Are non-mergers  classed  non-mergers : 0.96 ( 288 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.917 ( 288 of 314 )
+
+Epoch 193, Overall loss = 0.00198 and accuracy of 1
+Val 	 Overall loss = 0.27 and accuracy of 0.932 (559 of 600)
+Val 	 Are mergers  classed  mergers : 0.903 ( 271 of 300 )
+Val 	 Classed mergers  are  mergers : 0.958 ( 271 of 283 )
+Val 	 Are non-mergers  classed  non-mergers : 0.96 ( 288 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.909 ( 288 of 317 )
+
+Epoch 194, Overall loss = 0.00261 and accuracy of 0.999
+Val 	 Overall loss = 0.264 and accuracy of 0.933 (560 of 600)
+Val 	 Are mergers  classed  mergers : 0.917 ( 275 of 300 )
+Val 	 Classed mergers  are  mergers : 0.948 ( 275 of 290 )
+Val 	 Are non-mergers  classed  non-mergers : 0.95 ( 285 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.919 ( 285 of 310 )
+
+Epoch 195, Overall loss = 0.00618 and accuracy of 0.998
+Val 	 Overall loss = 0.273 and accuracy of 0.923 (554 of 600)
+Val 	 Are mergers  classed  mergers : 0.897 ( 269 of 300 )
+Val 	 Classed mergers  are  mergers : 0.947 ( 269 of 284 )
+Val 	 Are non-mergers  classed  non-mergers : 0.95 ( 285 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.902 ( 285 of 316 )
+
+Epoch 196, Overall loss = 0.00334 and accuracy of 1
+Val 	 Overall loss = 0.236 and accuracy of 0.947 (568 of 600)
+Val 	 Are mergers  classed  mergers : 0.95 ( 285 of 300 )
+Val 	 Classed mergers  are  mergers : 0.944 ( 285 of 302 )
+Val 	 Are non-mergers  classed  non-mergers : 0.943 ( 283 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.95 ( 283 of 298 )
+
+Epoch 197, Overall loss = 0.00292 and accuracy of 0.999
+Val 	 Overall loss = 0.294 and accuracy of 0.927 (556 of 600)
+Val 	 Are mergers  classed  mergers : 0.893 ( 268 of 300 )
+Val 	 Classed mergers  are  mergers : 0.957 ( 268 of 280 )
+Val 	 Are non-mergers  classed  non-mergers : 0.96 ( 288 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.9 ( 288 of 320 )
+
+Epoch 198, Overall loss = 0.0361 and accuracy of 0.988
+Val 	 Overall loss = 0.29 and accuracy of 0.927 (556 of 600)
+Val 	 Are mergers  classed  mergers : 0.907 ( 272 of 300 )
+Val 	 Classed mergers  are  mergers : 0.944 ( 272 of 288 )
+Val 	 Are non-mergers  classed  non-mergers : 0.947 ( 284 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.91 ( 284 of 312 )
+
+Epoch 199, Overall loss = 0.0326 and accuracy of 0.989
+Val 	 Overall loss = 0.247 and accuracy of 0.933 (560 of 600)
+Val 	 Are mergers  classed  mergers : 0.923 ( 277 of 300 )
+Val 	 Classed mergers  are  mergers : 0.942 ( 277 of 294 )
+Val 	 Are non-mergers  classed  non-mergers : 0.943 ( 283 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.925 ( 283 of 306 )
+
+Epoch 200, Overall loss = 0.00917 and accuracy of 0.997
+Val 	 Overall loss = 0.233 and accuracy of 0.927 (556 of 600)
+Val 	 Are mergers  classed  mergers : 0.907 ( 272 of 300 )
+Val 	 Classed mergers  are  mergers : 0.944 ( 272 of 288 )
+Val 	 Are non-mergers  classed  non-mergers : 0.947 ( 284 of 300 )
+Val 	 Classed non-mergers  are  non-mergers : 0.91 ( 284 of 312 )
